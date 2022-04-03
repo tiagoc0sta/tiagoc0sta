@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- 🚀 I’m currently learning studtying computer programming on Sault College - Toronto - ON
-💻   My stack: ReactJS, Next.js & Typescript
+ 🚀 I’m currently learning studtying computer programming on Sault College - Toronto - ON...
+💻   My stack: ReactJS, Next.js & Typescript...
 💬   Contact me: Linkedin:  | Gmail 
 
 
