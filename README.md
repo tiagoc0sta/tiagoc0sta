@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ 🚀 I’m currently learning studtying computer programming on Sault College - Toronto - ON
+💻   Minha stack: ReactJS, Next.js & Typescript
+📧   Entre em contato comigo: Linkedin Badge | Gmail Badge | Behance Badge
+
+
