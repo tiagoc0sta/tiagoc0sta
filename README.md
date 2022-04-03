@@ -17,6 +17,6 @@ Here are some ideas to get you started:
  
  🚀 I’m currently learning studtying computer programming on Sault College - Toronto - ON
 💻   Minha stack: ReactJS, Next.js & Typescript
-📧   Entre em contato comigo: Linkedin Badge | Gmail Badge | Behance Badge
+📧   Contact me: Linkedin:  | Gmail 
 
 
