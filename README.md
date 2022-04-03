@@ -17,6 +17,6 @@ Here are some ideas to get you started:
  
 - 🚀 I’m currently learning studtying computer programming on Sault College - Toronto - ON
 - 💻   My stack: ReactJS, Next.js & Typescript
-- 💬   Contact me: Linkedin:  | Gmail 
+- 💬   Contact me: Linkedin: https://www.linkedin.com/in/tiago-costa-2998894a/ | Gmail: tiagodpv@gmail.com
 
 
