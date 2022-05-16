@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-- 🚀   I am an a developer living in Kitchener - ON. 
+- 🚀   I am a developer living in Kitchener - ON. 
 - 💻   My stack: C# | Unity | Java 
 - 💬   Contact me: Linkedin: https://www.linkedin.com/in/tiago-costa-2998894a/ | Gmail: tiagodpv@gmail.com
 
