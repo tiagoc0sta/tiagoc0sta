@@ -1,7 +1,8 @@
 
-## Hi !
-
+ Hi, 
 - 💻 I am Tiago Costa, software developer living in Kitchener - Canada.
+##
+
 <div align="center">
   <a href="https://github.com/tiagoc0sta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoc0sta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
