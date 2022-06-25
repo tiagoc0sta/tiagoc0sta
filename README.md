@@ -1,11 +1,4 @@
 
- Hi there 👋
- 
-- 🚀   I am a software developer living in Kitchener - ON. 
-- 💻   My stack: C# | Unity | Java 
-- 💬   Contact me: Linkedin: https://www.linkedin.com/in/tiago-costa-2998894a/ | Gmail: tiagodpv@gmail.com
-
-
 ## Hi !
 
 - 💻 I am Tiago Costa, software developer living in Kitchener - Canada.
