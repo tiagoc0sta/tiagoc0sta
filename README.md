@@ -2,7 +2,7 @@
  Hi, 
 - 💻 I am Tiago Costa, software developer living in Kitchener - Canada.
 
-## Website - [click here](https://tiagotfc.com/)
+- Have a look at my Website - [click here](https://tiagotfc.com/)
 ##
 
 <div align="center">
